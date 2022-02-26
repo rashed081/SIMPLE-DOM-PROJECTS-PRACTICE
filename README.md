@@ -11,3 +11,5 @@ Project 4 Live: https://objective-cori-eb323a.netlify.app/
 Project 5 Live: https://domproject5.netlify.app/
 
 Project 6 Live: https://domproject6.netlify.app/
+
+Project 7 Live: https://dompractice7.netlify.app/
